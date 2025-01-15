@@ -1,2 +1,2 @@
-# My-First-Leacture-of-Git-
+# My-First-Leacture-of-Git
 Eddie Brock
